@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\bin\Debug\net7.0\carro.exe
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\bin\Debug\net7.0\carro.deps.json
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\bin\Debug\net7.0\carro.runtimeconfig.json
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\bin\Debug\net7.0\carro.dll
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\bin\Debug\net7.0\carro.pdb
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.dll
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\refint\carro.dll
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.pdb
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\carro.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Audaces\Modulo 2\Exercícios do modulo 2\Exerc-ciosDoModulo-II\Exercícios 3-10\carro\obj\Debug\net7.0\ref\carro.dll
